@@ -19,9 +19,9 @@ class ResultViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         aisatsutext = "こんにちは\(aisatsutext!)さん"
-                
+        
         nextLabel.text = aisatsutext
-                
+        
         /*
          // MARK: - Navigation
          
